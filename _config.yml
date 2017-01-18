@@ -1,0 +1,8 @@
+title: Mir
+description: хранилище в МИР
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
